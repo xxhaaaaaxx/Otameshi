@@ -30,7 +30,7 @@ use_bpm 100
     sleep 0.50
     play 77
     sleep 1
-    #
+
     play 77
     sleep 0.25
     play 79
@@ -47,7 +47,7 @@ use_bpm 100
     sleep 1
     play 79
     sleep 1
-    #
+
     play 79
     sleep 0.25
     play 80
@@ -66,7 +66,7 @@ use_bpm 100
     sleep 0.50
     play 77
     sleep 1
-    #
+
     play 77
     sleep 0.25
     play 79
@@ -85,7 +85,7 @@ use_bpm 100
     sleep 0.50
     play 86
     sleep 0.50
-    #後半
+
     play 86
     sleep 0.50
     play 84
@@ -102,7 +102,7 @@ use_bpm 100
     sleep 1
     play 79
     sleep 0.5
-    #
+
     play 80
     sleep 0.25
     play 79
@@ -123,7 +123,7 @@ use_bpm 100
     sleep 0.50
     play 87
     sleep 0.50
-    #
+
     play 86
     sleep 0.50
     play 84
@@ -140,7 +140,7 @@ use_bpm 100
     sleep 1
     play 79
     sleep 0.5
-    #
+
     play 80
     sleep 0.25
     play 79
@@ -198,7 +198,6 @@ use_bpm 100
   sleep 0.50
   play 65
   sleep 0.50
-  
   
   play 63
   sleep 0.50
@@ -275,8 +274,6 @@ use_bpm 100
   sleep 0.50
   play 70
   sleep 0.50
-  
-  
   
   play 63
   sleep 0.50
